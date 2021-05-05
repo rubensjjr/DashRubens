@@ -7,3 +7,4 @@ import com.rubens.dashboard.entities.Seller;
 public interface SellerRepository extends JpaRepository<Seller, Long> {
 
 }
+
